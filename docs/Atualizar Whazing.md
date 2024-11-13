@@ -11,7 +11,7 @@ cd ./whazinginstalador
 ```
 ```bash
 sudo ./whazing
-
+```
 
 RODAR OS COMANDOS ABAIXO PARA REINICAR PM2
 
