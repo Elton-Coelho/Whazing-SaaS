@@ -31,3 +31,14 @@ https://hub.notificame.com.br/
 
 
 # Não é possivel iniciar conversa com HUB somente responder depois da interação do cliente
+
+
+# Valores painel revenda hub
+
+1 a 39 canais por canal R$ 40,00
+
+40 a 99 canais por canal R$ 35,00
+
+### Instagram/Facebook 
+conta como 1 canal 
+as contas precisam está vinculadas
