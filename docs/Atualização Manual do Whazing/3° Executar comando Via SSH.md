@@ -1,3 +1,8 @@
+# Antes de continuar fazer backup ou snapshot da VPS. Vericar com empresa contratada
+
+------------------------------
+------------------------------
+
 # Agora acesse o SSH 
 
 - Execute o comando para atualizar o Whazing
