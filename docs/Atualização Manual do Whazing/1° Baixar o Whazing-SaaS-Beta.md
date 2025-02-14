@@ -1,4 +1,4 @@
-# Antes de continuar fazer backup ou snapshot da vps. Vericar com empresa contratada
+# Antes de continuar fazer backup ou snapshot da VPS. Verificar com empresa contratada
 
 ------------------------------
 ------------------------------
