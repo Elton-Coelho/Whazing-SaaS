@@ -1,4 +1,9 @@
-# Link para Baixar o arquivo da atualização
+# Antes de continuar fazer backup ou snapshot da vps. Vericar com empresa contratada
+
+------------------------------
+------------------------------
+
+## Link para Baixar o arquivo da atualização
 
 ```bash
 https://github.com/cleitonme/Whazing-SaaS-Beta
