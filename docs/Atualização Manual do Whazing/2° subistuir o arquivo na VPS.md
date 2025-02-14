@@ -1,3 +1,8 @@
+# Antes de continuar fazer backup ou snapshot da VPS. Vericar com empresa contratada
+
+------------------------------
+------------------------------
+
 # Acessando SFTP
 nesse exemplos estamos usando o Bitvice
 
